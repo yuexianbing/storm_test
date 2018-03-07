@@ -1,4 +1,4 @@
-package com.ybin.storm;
+package com.ybin.storm.wordcount;
 
 /**
  * @author yuebing

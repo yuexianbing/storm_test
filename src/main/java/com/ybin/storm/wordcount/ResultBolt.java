@@ -1,4 +1,4 @@
-package com.ybin.storm;
+package com.ybin.storm.wordcount;
 
 import org.apache.storm.task.OutputCollector;
 import org.apache.storm.task.TopologyContext;
